@@ -1,4 +1,4 @@
-# Validador XML — Grupo Ecoa x T. Globo
+# Validador XML
 
 Sistema em Python para validação de XMLs de NF-e, comparação com Purchase Order (PO) e análise de recebimentos.
 
